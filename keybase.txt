@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/seanabraham
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://seanabraham.me
+  * I am seanabraham (https://keybase.io/seanabraham) on keybase.
+  * I have a public key ASDTjYn1b91Bd0zFe7i_-NJEY8SZQZ-NpGkBHZ9yNBdf8Ao
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101f6c969a50b838f6e205c79e102c4361a82847f5161c78c62b15d9c90b0bdd1f00a",
+      "host": "keybase.io",
+      "kid": "0120d38d89f56fdd41774cc57bb8bff8d24463c499419f8da469011d9f7234175ff00a",
+      "uid": "e7edbb10923ba6d09cfb2cfea0099419",
+      "username": "seanabraham"
+    },
+    "merkle_root": {
+      "ctime": 1504646873,
+      "hash": "858fb13ebdff3531e0c0221523508cf74a8fea58b8df73555e63f03728088d5a5e3745e6f783b73b16f3e4371ca4ca4f38c392670072a498bd03fb071f2210aa",
+      "hash_meta": "cf96f974369d4c964595ff92fd9f4e7e45b2345e87639db3d2de54149e698800",
+      "seqno": 1368769
+    },
+    "service": {
+      "hostname": "seanabraham.me",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.28"
+  },
+  "ctime": 1504646930,
+  "expire_in": 504576000,
+  "prev": "34cfc1bb26d68d83c1061335d088ca0d16eb9ac9bf4761c101f9a572881f2574",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg042J9W/dQXdMxXu4v/jSRGPEmUGfjaRpAR2fcjQXX/AKp3BheWxvYWTFA0h7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxZjZjOTY5YTUwYjgzOGY2ZTIwNWM3OWUxMDJjNDM2MWE4Mjg0N2Y1MTYxYzc4YzYyYjE1ZDljOTBiMGJkZDFmMDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZDM4ZDg5ZjU2ZmRkNDE3NzRjYzU3YmI4YmZmOGQyNDQ2M2M0OTk0MTlmOGRhNDY5MDExZDlmNzIzNDE3NWZmMDBhIiwidWlkIjoiZTdlZGJiMTA5MjNiYTZkMDljZmIyY2ZlYTAwOTk0MTkiLCJ1c2VybmFtZSI6InNlYW5hYnJhaGFtIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTA0NjQ2ODczLCJoYXNoIjoiODU4ZmIxM2ViZGZmMzUzMWUwYzAyMjE1MjM1MDhjZjc0YThmZWE1OGI4ZGY3MzU1NWU2M2YwMzcyODA4OGQ1YTVlMzc0NWU2Zjc4M2I3M2IxNmYzZTQzNzFjYTRjYTRmMzhjMzkyNjcwMDcyYTQ5OGJkMDNmYjA3MWYyMjEwYWEiLCJoYXNoX21ldGEiOiJjZjk2Zjk3NDM2OWQ0Yzk2NDU5NWZmOTJmZDlmNGU3ZTQ1YjIzNDVlODc2MzlkYjNkMmRlNTQxNDllNjk4ODAwIiwic2Vxbm8iOjEzNjg3Njl9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoic2VhbmFicmFoYW0ubWUiLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjI4In0sImN0aW1lIjoxNTA0NjQ2OTMwLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6IjM0Y2ZjMWJiMjZkNjhkODNjMTA2MTMzNWQwODhjYTBkMTZlYjlhYzliZjQ3NjFjMTAxZjlhNTcyODgxZjI1NzQiLCJzZXFubyI6OCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEBkJFW1Gaj61S1Jre0OnRRzonRom8VCN/gjkS77le0COeSKb5VFb9GuR87mjAydnf+U7giJjCR143uW+oIQU3AAqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgIgXtRPMyeEXZIt2QebIYHh0O6QBB7A6XgK/NSRs3gQGjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/seanabraham
+
+==================================================================
